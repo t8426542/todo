@@ -1,0 +1,5 @@
+Django==1.10
+djangorestframework==3.4.4
+payments==0.2
+psycopg2==2.7.1
+requests==2.9.1
